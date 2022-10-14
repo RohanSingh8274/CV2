@@ -21,6 +21,10 @@ body{
     text-decoration: none;
     color: #11999E;
 }
+.nav-item a:hover{
+    color:#11999E;
+    font-weight: bolder;
+}
 h1{
     color: #66BFBF;
     font-family: 'Dancing Script', cursive;
@@ -107,6 +111,9 @@ p{
     font-size: large;
     text-decoration: none;
     color: #11999E;
+}
+.footer-link:hover{
+    font-weight: bolder;
 }
 .copy{
     color: #EAF6F6;
